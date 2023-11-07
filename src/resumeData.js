@@ -22,7 +22,7 @@ let resumeData = {
             "className": "fa fa-twitter"
         }
     ],
-    "aboutme": "I am currently studying in Northern Virginia Community College as international student, and making my best to achieve all the knowledge here to efficiently use them in future",
+    "aboutme": "I am currently studying in Northern Virginia Community College as a student on a Web Development and Design, and making my best to achieve all the knowledge here to efficiently use them in future",
     "address": "USA",
     "education": [
         {
@@ -30,14 +30,13 @@ let resumeData = {
             "specialization": "Web Design and Development",
             "MonthOfPassing": "May",
             "YearOfPassing": "2024",
-            "Achievements": "Community Impact Project"
+            "Achievements": "CCI Programme"
         },
         {
             "UniversityName": "Cherkasy State Business-College",
             "specialization": "Software Engineering",
             "MonthOfPassing": "Aug",
             "YearOfPassing": "2020",
-            "Achievements": "Team project: Online Card Game"
         }
     ],
     "skillsDescription": "My skills",
@@ -55,7 +54,7 @@ let resumeData = {
             "skillname": "TypeScript"
         },
         {
-            "skillname": "Next.js"
+            "skillname": "NextJs"
         },
         {
             "skillname": "Zustand"
@@ -64,13 +63,15 @@ let resumeData = {
     "portfolio": [
         {
             "name": "Card Game",
-            "description": "I had experience creating an online turn-based game for a college as a frontend developer using React, Zustand, trpc, TypeScript, React Router DOM, React Query, and React Hook Form.",
-            "imgurl": "images/portfolio/peasant.png"
+            "description": "I had experience creating in a team an online turn-based game for a college as a frontend developer using React, Zustand, trpc, TypeScript, React Router DOM, React Query, and React Hook Form.",
+            "imgurl": "images/portfolio/peasant.png",
+            "link": "https://github.com/Angoliuk/Kings-of-loli"
         },
         {
             "name": "Site Bio",
             "description": "Created plain site bio for my own purposes and also to with a passion to make something not usual",
-            "imgurl": "images/portfolio/portfolio.png"
+            "imgurl": "images/portfolio/portfolio.png",
+            "link": "https://github.com/iluaboltov/workshop/tree/main/site-bio"
         },
     ],
     "testimonials": [
